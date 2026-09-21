@@ -1,0 +1,8 @@
+streamlit
+folium
+streamlit-folium
+streamlit-geolocation
+pandas
+numpy
+jinja2
+branca
